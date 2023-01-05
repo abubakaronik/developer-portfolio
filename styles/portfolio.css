@@ -18,6 +18,21 @@
     background: #f9004d;
     transform: 0.4s;
 }
+.btn-primary-second{
+    color:#FFFFFF;
+    width: 207px;
+    font-weight: 700px;
+    font-size: 20px;
+    border: 0px;
+    padding: 18px 30px;
+    height: 64px;
+    border-radius: 5px;
+    background: #f9004d;
+    transform: 0.4s;
+}
+.btn-primary-second:hover{
+    transform: scale(1.2);    
+}
 .btn-primary:hover{
     transform: scale(1.2);
 }
